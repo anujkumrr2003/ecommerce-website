@@ -1,1 +1,34 @@
 
+
+# Database credentials
+config.php
+website/config.php
+
+# Environment files
+.env
+.env.*
+
+# Dependencies
+vendor/
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Private customer uploads
+uploads/
+storage/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.zip
+*.bak
+*.sql.bak
